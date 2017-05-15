@@ -1,4 +1,4 @@
-# projektC
+# projektC#
 Program do liczenia sum w koszykarskich zakładach bukmacherskich - aplikacja w konsoli.
 
 Sumy to podstawowe zdarzenie wykorzystywane przez graczy celem wzbogacenia się, 
